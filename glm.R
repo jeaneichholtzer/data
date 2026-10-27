@@ -2,7 +2,7 @@
 # AUTHORS: Jean Eichholtzer, Roberto Rafael Ruiz-Santiago, Alejandra del Socorro González-Moreno, Esaú Ruiz-Sánchez, Germán Giácoman Vallejos, Horacio Salomón Ballina-Gómez*
 # CORREPONDING: horacio.bg@conkal.tecnm.mx
 
-# 0 Set Working Directory
+# Set Working Directory
 
 #setwd("yourpath/foldername")
 
